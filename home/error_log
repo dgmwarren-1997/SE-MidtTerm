@@ -1,0 +1,25 @@
+[30-Mar-2021 02:10:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id16355684_hantechdbjay'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 02:10:40 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 02:11:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id16355684_hantechdbjay'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 02:11:13 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 02:12:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id16355684_hantechdbjay'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 02:12:17 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 02:12:35 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id16355684_hantechdbjay'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 02:12:35 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 02:18:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id16355684_hantechdbjay'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 02:18:46 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 02:19:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id16355684_hantechdbjay'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 02:19:43 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 03:39:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cpses_jazqh9v6rx'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:39:10 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 03:39:21 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cpses_jazqh9v6rx'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:39:21 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 03:39:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cpses_jazqh9v6rx'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:39:26 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 03:42:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cpses_jazqh9v6rx'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:42:20 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 06:37:39 UTC] PHP Notice:  Undefined variable: userid in /home/ja59dvmjcj5e/public_html/home/index.php on line 55
+[31-Mar-2021 04:36:22 UTC] PHP Notice:  Undefined index: quantity in /home/ja59dvmjcj5e/public_html/home/index.php on line 81
+[31-Mar-2021 04:36:22 UTC] PHP Notice:  Undefined index: quantity in /home/ja59dvmjcj5e/public_html/home/index.php on line 81
+[02-Apr-2021 07:16:28 UTC] PHP Notice:  Undefined variable: userid in /home/ja59dvmjcj5e/public_html/home/index.php on line 59
+[02-Apr-2021 07:16:28 UTC] PHP Notice:  Undefined variable: userid in /home/ja59dvmjcj5e/public_html/home/index.php on line 72

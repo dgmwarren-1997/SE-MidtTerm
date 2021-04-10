@@ -1,0 +1,28 @@
+[30-Mar-2021 03:30:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cpses_jazqh9v6rx'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:30:51 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 03:31:34 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cpses_jazqh9v6rx'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:31:34 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 03:31:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cpses_jazqh9v6rx'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:31:38 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 03:31:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cpses_jazqh9v6rx'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:31:39 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 03:31:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cpses_jazqh9v6rx'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:31:49 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 03:31:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cpses_jazqh9v6rx'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:31:49 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 03:45:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cpses_ja6liupu6k@localhost'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:45:37 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 03:46:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'Localhost via UNIX socket' (0) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:46:13 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 03:46:40 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'UNIX' (0) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:46:40 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 03:46:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cpses_ja6liupu6k@localhost'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:46:56 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 03:48:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:48:37 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 03:50:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ja59dvmjcj5e'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:50:11 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 03:57:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ja59dvmjcj5e'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:57:50 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 03:58:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cpses_ja6liupu6k'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:58:17 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13

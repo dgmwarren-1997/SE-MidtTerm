@@ -1,0 +1,239 @@
+@font-face {
+  font-family: 'Bebas Neue';
+  src: url('./font/BebasNeue-Regular.otf'); /* IE9 Compat Modes */
+}
+
+
+/* Sidebar */
+
+.sidebar {
+	height: 100%;
+	width: 0;
+	position: fixed;
+	top: 0;
+	left: 0;
+	background-color: #7BA9D1;
+	overflow-x: hidden;
+	transition: 0.5s;
+	padding-top: 140px;
+	z-index: 2;
+}
+
+.sidebar a {
+	padding: 0px 0px 0px 40px;
+	text-decoration: none;
+	font-size: 1.2rem;
+	color: white;
+	display: block;
+	transition: 0.3s;
+}
+
+a {
+	text-decoration:none;
+	color:black;
+}
+
+
+.sidebar a:hover {
+	color: black;
+}
+
+.items {
+	margin:40px 100px 0 100px;
+}
+
+.items a:hover {
+	color: #7BA9D1;
+	text-decoration:none;
+}
+
+
+.sidebar .closebtn {
+	padding-top: 80px;
+	position: absolute;
+	top: 0;
+	right: 30px;
+	font-size: 36px;
+	margin-left: 50px;
+}
+
+.openbtn {	
+	margin-top:30px;
+	position: fixed;
+	font-size: 20px;
+	cursor: pointer;
+	background-color: #7BA9D1;
+	color: white;
+	padding: 10px 15px;
+	border: none;
+	z-index:2;
+}
+
+.openbtn:hover {
+	background-color: #5D91BF;
+}
+
+.hantechheader {
+	font-size:120px;
+	font-family:Bebas Neue;
+	margin-top:150px;
+	margin-bottom:-35px;
+	text-align:center;
+}
+
+.sidebarh {
+	font-family:Bebas Neue;
+	font-size:50px;
+	padding: 0px 0px 10px 36px;
+}
+
+
+#main {
+	transition: margin-left .5s;
+	padding: 16px;
+}
+
+.featureitems {
+	background-color:black;
+
+}
+
+
+
+/* Carousel */
+
+.carousel-inner {
+	margin-top:120px;
+	border-radius:10px;
+}
+
+.carousel-indicators{
+	z-index:1;
+}
+
+.caroubg {
+	background-image: url("./imgp/pexels-markus-spiske-116720.jpg");
+	height:52rem;
+}
+
+
+/* Categories Search Bar */
+
+.main {
+    width: 50vw;
+    margin: 100px auto;
+	margin-bottom: -100px;
+}
+
+
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+
+.dfcolor {
+	background-color:#7BA9D1;
+}
+
+.card {
+	transition: transform .2s;
+}
+
+.card:hover {
+	transform: scale(1.1);
+	z-index:0;
+}
+
+.hrcate {
+	color:white;
+	width:85%;
+	margin:15px 15px;
+}
+
+
+/* Phone Reso */
+@media screen and (max-width: 768px) {
+	.sidebar {
+		padding-top: 140px;
+	}
+	.sidebar a {
+		font-size: 18px;
+	}
+	
+	
+	.hantechheader {
+	font-size:50px;
+	font-family:Bebas Neue;
+	margin-top:50px;
+	margin-bottom:-20px;
+	text-align:center;
+	}
+	
+	.carousel-inner {
+	width:320px;
+	margin-top:150px;
+	margin-left:-10px;
+	border-radius:10px;
+	}
+	
+	.sidebar {
+	height: 100%;
+	width: 0;
+	position: fixed;
+	z-index: 2;
+	top: 0;
+	left: 0;
+	background-color: #7BA9D1;
+	overflow-x: hidden;
+	transition: 0.5s;
+	padding-top: 140px;
+	}
+
+	.openbtn {	
+	margin-top:2px;
+	margin-left:-9px;
+	position: fixed;
+	cursor: pointer;
+	background-color: #7BA9D1;
+	color: white;
+	padding: 2px 8px;
+	border: none;
+	z-index:2;
+	}
+	
+	.card {
+	font-size:10px;
+	text-align:center;
+	}
+	
+	.card-footer {
+	margin-left:-10px;
+	}
+	
+	.caroubg {
+	background-image: url("./imgp/pexels-markus-spiske-116720.jpg");
+	height:25rem;
+}
+	
+	.main {
+    width: 330px;
+	}
+	
+}
+
+
+}
+
+

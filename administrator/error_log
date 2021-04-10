@@ -1,0 +1,143 @@
+[30-Mar-2021 03:32:53 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cpses_jazqh9v6rx'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:32:53 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 03:35:48 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cpses_jazqh9v6rx'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:35:48 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 03:35:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/administrator/index.php on line 123
+[30-Mar-2021 03:35:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/administrator/index.php on line 124
+[30-Mar-2021 03:35:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cpses_jazqh9v6rx'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:35:50 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 03:35:54 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cpses_jazqh9v6rx'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:35:54 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 03:35:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/administrator/index.php on line 123
+[30-Mar-2021 03:35:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/administrator/index.php on line 124
+[30-Mar-2021 03:35:55 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cpses_jazqh9v6rx'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:35:55 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 03:36:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cpses_jazqh9v6rx'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:36:17 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 03:36:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cpses_jazqh9v6rx'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:36:18 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 03:36:55 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cpses_jazqh9v6rx'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:36:55 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 03:44:55 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cpses_ja6liupu6k'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:44:55 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 03:45:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cpses_ja6liupu6k@localhost'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:45:11 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 03:45:25 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cpses_ja6liupu6k@localhost'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 03:45:25 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 04:01:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id16355684_hantechdbjay'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/login_session.php on line 13
+[30-Mar-2021 04:01:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/administrator/login_session.php on line 17
+[30-Mar-2021 04:01:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/administrator/login_session.php on line 18
+[30-Mar-2021 04:01:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id16355684_hantechdbjay'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/login_session.php on line 13
+[30-Mar-2021 04:01:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/administrator/login_session.php on line 17
+[30-Mar-2021 04:01:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/administrator/login_session.php on line 18
+[30-Mar-2021 04:01:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id16355684_hantechdbjay'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/login_session.php on line 13
+[30-Mar-2021 04:01:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/administrator/login_session.php on line 17
+[30-Mar-2021 04:01:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/administrator/login_session.php on line 18
+[30-Mar-2021 04:01:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id16355684_hantechdbjay'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/login_session.php on line 13
+[30-Mar-2021 04:01:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/administrator/login_session.php on line 17
+[30-Mar-2021 04:01:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/administrator/login_session.php on line 18
+[30-Mar-2021 04:33:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id16355684_hantechdbjay'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/login_session.php on line 13
+[30-Mar-2021 04:33:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/administrator/login_session.php on line 17
+[30-Mar-2021 04:33:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/administrator/login_session.php on line 18
+[30-Mar-2021 04:33:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id16355684_hantechdbjay'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/login_session.php on line 13
+[30-Mar-2021 04:33:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/administrator/login_session.php on line 17
+[30-Mar-2021 04:33:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/administrator/login_session.php on line 18
+[30-Mar-2021 04:33:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id16355684_hantechdbjay'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/login_session.php on line 13
+[30-Mar-2021 04:33:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/administrator/login_session.php on line 17
+[30-Mar-2021 04:33:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/administrator/login_session.php on line 18
+[30-Mar-2021 04:33:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id16355684_hantechdbjay'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/login_session.php on line 13
+[30-Mar-2021 04:33:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/administrator/login_session.php on line 17
+[30-Mar-2021 04:33:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/administrator/login_session.php on line 18
+[30-Mar-2021 04:33:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id16355684_hantechdbjay'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/login_session.php on line 13
+[30-Mar-2021 04:33:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/administrator/login_session.php on line 17
+[30-Mar-2021 04:33:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/administrator/login_session.php on line 18
+[30-Mar-2021 04:36:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ja59dvmjcj5e/public_html/administrator/myStyle.php on line 94
+[30-Mar-2021 04:39:29 UTC] PHP Notice:  Undefined variable: totalcost in /home/ja59dvmjcj5e/public_html/administrator/newcusttrans.php on line 713
+[30-Mar-2021 04:39:29 UTC] PHP Notice:  Undefined variable: totalcost in /home/ja59dvmjcj5e/public_html/administrator/newcusttrans.php on line 762
+[30-Mar-2021 04:40:07 UTC] PHP Notice:  Undefined variable: totalcost in /home/ja59dvmjcj5e/public_html/administrator/newtrans.php on line 715
+[30-Mar-2021 04:40:07 UTC] PHP Notice:  Undefined variable: totalcost in /home/ja59dvmjcj5e/public_html/administrator/newtrans.php on line 763
+[30-Mar-2021 04:49:33 UTC] PHP Notice:  Undefined variable: searchdata in /home/ja59dvmjcj5e/public_html/administrator/sales.php on line 2184
+[30-Mar-2021 08:12:39 UTC] PHP Notice:  Undefined index: name in /home/ja59dvmjcj5e/public_html/administrator/dashboard.php on line 65
+[30-Mar-2021 08:14:34 UTC] PHP Notice:  Undefined index: name in /home/ja59dvmjcj5e/public_html/administrator/dashboard.php on line 65
+[30-Mar-2021 08:52:08 UTC] PHP Notice:  Undefined index: name in /home/ja59dvmjcj5e/public_html/administrator/dashboard.php on line 65
+[30-Mar-2021 10:18:35 UTC] PHP Notice:  Undefined variable: totalcost in /home/ja59dvmjcj5e/public_html/administrator/newtrans.php on line 715
+[30-Mar-2021 10:18:35 UTC] PHP Notice:  Undefined variable: totalcost in /home/ja59dvmjcj5e/public_html/administrator/newtrans.php on line 763
+[30-Mar-2021 10:20:10 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[30-Mar-2021 10:20:10 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[30-Mar-2021 10:20:10 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[30-Mar-2021 10:20:10 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[30-Mar-2021 10:20:10 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[30-Mar-2021 10:20:10 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[30-Mar-2021 10:20:10 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[30-Mar-2021 10:20:10 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[30-Mar-2021 10:20:10 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[30-Mar-2021 10:20:48 UTC] PHP Notice:  Undefined variable: totalcost in /home/ja59dvmjcj5e/public_html/administrator/newcusttrans.php on line 713
+[30-Mar-2021 10:20:48 UTC] PHP Notice:  Undefined variable: totalcost in /home/ja59dvmjcj5e/public_html/administrator/newcusttrans.php on line 762
+[31-Mar-2021 04:03:45 UTC] PHP Notice:  Undefined variable: searchdata in /home/ja59dvmjcj5e/public_html/administrator/sales.php on line 2184
+[31-Mar-2021 04:04:06 UTC] PHP Notice:  Undefined variable: totalcost in /home/ja59dvmjcj5e/public_html/administrator/newtrans.php on line 715
+[31-Mar-2021 04:04:06 UTC] PHP Notice:  Undefined variable: totalcost in /home/ja59dvmjcj5e/public_html/administrator/newtrans.php on line 763
+[01-Apr-2021 03:18:11 UTC] PHP Notice:  Undefined variable: totalcost in /home/ja59dvmjcj5e/public_html/administrator/newtrans.php on line 715
+[01-Apr-2021 03:18:11 UTC] PHP Notice:  Undefined variable: totalcost in /home/ja59dvmjcj5e/public_html/administrator/newtrans.php on line 763
+[01-Apr-2021 03:46:22 UTC] PHP Notice:  Undefined variable: getmail in /home/ja59dvmjcj5e/public_html/administrator/dataprocessing.php on line 179
+[01-Apr-2021 03:46:22 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ja59dvmjcj5e/public_html/administrator/dataprocessing.php on line 179
+[01-Apr-2021 03:46:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/administrator/dataprocessing.php on line 180
+[01-Apr-2021 03:46:22 UTC] PHP Notice:  Undefined variable: email in /home/ja59dvmjcj5e/public_html/administrator/dataprocessing.php on line 197
+[01-Apr-2021 03:48:15 UTC] PHP Notice:  Undefined variable: getmail in /home/ja59dvmjcj5e/public_html/administrator/dataprocessing.php on line 179
+[01-Apr-2021 03:48:15 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ja59dvmjcj5e/public_html/administrator/dataprocessing.php on line 179
+[01-Apr-2021 03:48:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/administrator/dataprocessing.php on line 180
+[01-Apr-2021 03:48:15 UTC] PHP Notice:  Undefined variable: email in /home/ja59dvmjcj5e/public_html/administrator/dataprocessing.php on line 223
+[01-Apr-2021 03:49:02 UTC] PHP Notice:  Undefined variable: getmail in /home/ja59dvmjcj5e/public_html/administrator/dataprocessing.php on line 179
+[01-Apr-2021 03:49:02 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ja59dvmjcj5e/public_html/administrator/dataprocessing.php on line 179
+[01-Apr-2021 03:49:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/administrator/dataprocessing.php on line 180
+[01-Apr-2021 03:49:02 UTC] PHP Notice:  Undefined variable: email in /home/ja59dvmjcj5e/public_html/administrator/dataprocessing.php on line 193
+[01-Apr-2021 03:59:08 UTC] PHP Notice:  Undefined index: name in /home/ja59dvmjcj5e/public_html/administrator/dataprocessing.php on line 182
+[02-Apr-2021 09:25:07 UTC] PHP Notice:  Undefined variable: searchdata in /home/ja59dvmjcj5e/public_html/administrator/sales.php on line 2184
+[02-Apr-2021 09:26:17 UTC] PHP Notice:  Undefined variable: totalcost in /home/ja59dvmjcj5e/public_html/administrator/newcusttrans.php on line 713
+[02-Apr-2021 09:26:17 UTC] PHP Notice:  Undefined variable: totalcost in /home/ja59dvmjcj5e/public_html/administrator/newcusttrans.php on line 762
+[02-Apr-2021 09:28:49 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[02-Apr-2021 09:28:49 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[02-Apr-2021 09:28:49 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[02-Apr-2021 09:28:49 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[02-Apr-2021 09:28:49 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[02-Apr-2021 09:28:49 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[02-Apr-2021 12:02:48 UTC] PHP Notice:  Undefined variable: searchdata in /home/ja59dvmjcj5e/public_html/administrator/sales.php on line 2184
+[03-Apr-2021 03:29:48 UTC] PHP Notice:  Undefined variable: branc in /home/ja59dvmjcj5e/public_html/administrator/test.php on line 19
+[03-Apr-2021 03:30:31 UTC] PHP Notice:  Undefined index: branchid in /home/ja59dvmjcj5e/public_html/administrator/test.php on line 7
+[03-Apr-2021 03:30:51 UTC] PHP Notice:  Undefined index: branchid in /home/ja59dvmjcj5e/public_html/administrator/test.php on line 7
+[03-Apr-2021 03:34:23 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ja59dvmjcj5e/public_html/administrator/test.php on line 49
+[04-Apr-2021 13:11:32 UTC] PHP Notice:  Undefined variable: searchdata in /home/ja59dvmjcj5e/public_html/administrator/sales.php on line 2184
+[07-Apr-2021 01:56:39 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[07-Apr-2021 01:56:50 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[07-Apr-2021 01:57:05 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[07-Apr-2021 01:57:05 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[07-Apr-2021 01:57:05 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[07-Apr-2021 01:57:05 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[07-Apr-2021 01:57:05 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[07-Apr-2021 01:57:05 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[07-Apr-2021 01:57:05 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[07-Apr-2021 01:57:05 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[07-Apr-2021 01:57:05 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[07-Apr-2021 01:57:11 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[07-Apr-2021 01:57:11 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[07-Apr-2021 01:57:11 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[07-Apr-2021 01:57:11 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[07-Apr-2021 01:57:11 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[07-Apr-2021 01:57:11 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[07-Apr-2021 01:57:11 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[07-Apr-2021 01:57:11 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[07-Apr-2021 01:57:14 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[07-Apr-2021 01:57:30 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[07-Apr-2021 01:57:30 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[07-Apr-2021 01:57:30 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[07-Apr-2021 01:57:30 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[07-Apr-2021 01:57:30 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[07-Apr-2021 01:57:30 UTC] PHP Notice:  Undefined variable: data in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 615
+[07-Apr-2021 02:05:20 UTC] PHP Warning:  unlink(bin/Item_Images/2107-tanduay ice.jfif): Is a directory in /home/ja59dvmjcj5e/public_html/administrator/product.php on line 925
+[07-Apr-2021 02:16:15 UTC] PHP Notice:  Undefined variable: branc in /home/ja59dvmjcj5e/public_html/administrator/dataprocessing.php on line 293
+[07-Apr-2021 02:23:49 UTC] PHP Notice:  Undefined variable: searchdata in /home/ja59dvmjcj5e/public_html/administrator/sales.php on line 2184
+[07-Apr-2021 02:24:01 UTC] PHP Notice:  Undefined variable: searchdata in /home/ja59dvmjcj5e/public_html/administrator/sales.php on line 2184
+[07-Apr-2021 03:54:25 UTC] PHP Notice:  Undefined variable: client in /home/ja59dvmjcj5e/public_html/administrator/receipt.php on line 9
+[07-Apr-2021 03:54:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function convertFile() on null in /home/ja59dvmjcj5e/public_html/administrator/receipt.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ja59dvmjcj5e/public_html/administrator/receipt.php on line 9

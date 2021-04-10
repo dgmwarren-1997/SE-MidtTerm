@@ -1,0 +1,14 @@
+[30-Mar-2021 02:11:03 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id16355684_hantechdbjay'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 02:11:03 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 02:12:34 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id16355684_hantechdbjay'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 02:12:34 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[31-Mar-2021 02:33:11 UTC] PHP Notice:  Undefined variable: name in /home/ja59dvmjcj5e/public_html/signin/mail.php on line 14
+[31-Mar-2021 02:35:33 UTC] PHP Notice:  Undefined variable: name in /home/ja59dvmjcj5e/public_html/signin/mail.php on line 14
+[31-Mar-2021 02:36:15 UTC] PHP Notice:  Undefined variable: name in /home/ja59dvmjcj5e/public_html/signin/mail.php on line 14
+[31-Mar-2021 02:37:51 UTC] PHP Notice:  Undefined variable: name in /home/ja59dvmjcj5e/public_html/signin/mail.php on line 14
+[31-Mar-2021 02:37:52 UTC] PHP Notice:  Undefined variable: name in /home/ja59dvmjcj5e/public_html/signin/mail.php on line 14
+[31-Mar-2021 03:17:36 UTC] PHP Warning:  A non-numeric value encountered in /home/ja59dvmjcj5e/public_html/signin/g-callback.php on line 71
+[31-Mar-2021 03:17:36 UTC] PHP Warning:  A non-numeric value encountered in /home/ja59dvmjcj5e/public_html/signin/g-callback.php on line 71
+[31-Mar-2021 03:17:36 UTC] PHP Warning:  A non-numeric value encountered in /home/ja59dvmjcj5e/public_html/signin/g-callback.php on line 71
+[31-Mar-2021 03:17:36 UTC] PHP Warning:  A non-numeric value encountered in /home/ja59dvmjcj5e/public_html/signin/g-callback.php on line 71
+[31-Mar-2021 03:17:36 UTC] PHP Warning:  A non-numeric value encountered in /home/ja59dvmjcj5e/public_html/signin/g-callback.php on line 71

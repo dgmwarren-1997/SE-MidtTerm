@@ -1,0 +1,13 @@
+[30-Mar-2021 02:19:48 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id16355684_hantechdbjay'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 10
+[30-Mar-2021 02:19:48 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/administrator/connection/connect.php on line 13
+[30-Mar-2021 02:19:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/category-action/index.php on line 1775
+[30-Mar-2021 02:19:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/category-action/index.php on line 1776
+[31-Mar-2021 04:27:45 UTC] PHP Notice:  Undefined variable: userid in /home/ja59dvmjcj5e/public_html/category-action/index.php on line 51
+[31-Mar-2021 04:27:55 UTC] PHP Notice:  Undefined variable: userid in /home/ja59dvmjcj5e/public_html/category-action/index.php on line 51
+[31-Mar-2021 04:27:59 UTC] PHP Notice:  Undefined variable: userid in /home/ja59dvmjcj5e/public_html/category-action/index.php on line 51
+[31-Mar-2021 04:28:17 UTC] PHP Notice:  Undefined variable: userid in /home/ja59dvmjcj5e/public_html/category-action/index.php on line 51
+[31-Mar-2021 04:29:59 UTC] PHP Notice:  Undefined variable: userid in /home/ja59dvmjcj5e/public_html/category-action/index.php on line 51
+[31-Mar-2021 04:30:30 UTC] PHP Notice:  Undefined variable: userid in /home/ja59dvmjcj5e/public_html/category-action/index.php on line 51
+[31-Mar-2021 04:32:08 UTC] PHP Notice:  Undefined variable: userid in /home/ja59dvmjcj5e/public_html/category-action/index.php on line 51
+[31-Mar-2021 04:53:10 UTC] PHP Notice:  Undefined variable: countcart in /home/ja59dvmjcj5e/public_html/category-action/index.php on line 785
+[31-Mar-2021 04:53:10 UTC] PHP Notice:  Undefined variable: countcart in /home/ja59dvmjcj5e/public_html/category-action/index.php on line 786

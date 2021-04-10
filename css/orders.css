@@ -1,0 +1,102 @@
+/* Orders Page */
+
+.orderstab {
+    margin-top: 7vw;
+}
+
+.nav-tabs a:hover {
+	color:white;
+}
+
+.tab-content {
+	border-radius:5px;
+	height:30.5rem;
+	overflow:hidden; 
+	overflow-y:scroll;
+	z-index: 1;
+	background:white;
+}
+
+.tab-content img {
+	width:120px;
+	float:left;
+	border-style: solid;
+	border-color: white;
+	border-radius:5px;
+	margin:0px 10px;
+}
+
+.item-tab-list {
+	margin:0.5rem;
+	margin-bottom:0;
+	display: inline-block;
+	padding:10px;
+	border-radius:5px;
+	width:98.5%;
+	background:#7BA9D1;
+}
+
+.tab-item-descrip{
+	white-space: normal;
+	width:80.5%;
+	float:left;
+}
+
+.nav-item {
+	padding-left:1rem;
+}
+
+.nav-link {
+	font-size:1.2rem;
+}
+
+.ordersh {
+	margin-top: 12vw;
+}
+
+
+@media screen and (max-width: 768px) {	
+	
+	
+    .nav {
+    padding-left:2px;
+    padding-right:2px;
+    }
+	
+    .nav li {
+    display:block !important;
+    width:100%;
+    margin:0px;
+    }
+	
+    .nav li.active {
+    border-bottom:1px solid #ddd!important;
+    margin: 0px;
+    }
+	
+	.tab-content img {
+	width:60px;
+	float:left;
+	border-style: solid;
+	margin:0px 10px;
+	}
+	
+	h4 {
+	font-size:15px;	
+	}
+	
+	.ordersh {
+	margin-top: 17vw;
+	text-align: center
+	}
+
+	.tab-item-descrip {
+	white-space: normal;
+	font-size:10px;
+	width:30.5%;
+	float:left;
+	}
+
+		
+}
+

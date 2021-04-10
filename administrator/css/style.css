@@ -1,0 +1,32 @@
+.navbar-nav li {
+	padding: 5px 10px;
+}
+.navbar-nav li a:hover {
+	background-color:rgb(28, 36, 73);
+	border-radius: 10px;
+	color: white;
+
+}
+ul {
+
+}
+
+.dark{
+	background-color: rgb(66, 88, 127);
+}
+.logoname {
+	font-family: centaur;
+	font-size: 30px;
+	
+}
+#active {
+	color:gold;
+	background-color:rgb(28, 36, 73);
+	border-radius: 5px;
+}
+.panel-body {
+	height: 550px;
+
+	
+
+}
